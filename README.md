@@ -1,2 +1,7 @@
 # modx
-module for MODX
+module for MODX Minishop 2
+
+- Скопируйте содержимое архива в корень вашего сайта
+- Запустите скрипт ВАШ ДОМЕН/unitpa_setup.php
+- Перейдите в Пакеты -> Minishop 2 -> Настройки -> Способы оплаты. Убедитесь что модуль UnitPay присутствует в списке и включен, если нет то добавьте с обработчиком UnitPay
+- Перейдите в "Системные настройки & События" в панеле управления MODX и установите UnitPay Domain, UnitPay Public Key, UnitPay Secret Key 
